@@ -5,7 +5,7 @@
 ################################################################################
 
 8080_VERSION = 1.0
-8080_SITE = package/8080/src
+8080_SITE = $(8080_PKGDIR)src
 8080_SITE_METHOD = local
 
 define 8080_BUILD_CMDS
