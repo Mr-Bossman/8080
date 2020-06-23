@@ -1,0 +1,4 @@
+config BR2_PACKAGE_8080
+	bool "8080"
+	help
+		test program
